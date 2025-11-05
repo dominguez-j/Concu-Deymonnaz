@@ -1,0 +1,10 @@
+username,anime_id,my_score,user_id,gender,title,type,source,score,scored_by,rank,popularity,genre
+user1,1,9,1,male,Death Note,TV,Manga,0,10,0,0,"Mystery, Psychological, Thriller"
+user2,1,8,2,female,Death Note,TV,Manga,0,10,0,0,"Mystery, Psychological, Thriller"
+user3,1,10,3,male,Death Note,TV,Manga,0,10,0,0,"Mystery, Psychological, Thriller"
+user1,2,7,1,male,One Piece,TV,Manga,0,10,0,0,"Action, Adventure, Comedy"
+user2,2,8,2,female,One Piece,TV,Manga,0,10,0,0,"Action, Adventure, Comedy"
+user1,3,6,1,male,Naruto,TV,Manga,0,10,0,0,"Action, Comedy, Martial Arts"
+user2,3,7,2,female,Naruto,TV,Manga,0,10,0,0,"Action, Comedy, Martial Arts"
+user3,3,8,3,male,Naruto,TV,Manga,0,10,0,0,"Action, Comedy, Martial Arts"
+user4,3,9,4,female,Naruto,TV,Manga,0,10,0,0,"Action, Comedy, Martial Arts"

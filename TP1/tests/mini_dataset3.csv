@@ -1,0 +1,13 @@
+username,anime_id,my_score,user_id,gender,title,type,source,score,scored_by,rank,popularity,genre
+alice,1,10,1,female,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+bob,1,9,2,male,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+charlie,1,10,3,male,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+diana,1,9,4,female,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+eve,1,10,5,female,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+alice,2,8,1,female,My Neighbor Totoro,Movie,Original,0,10,0,0,"Adventure, Fantasy, Family"
+bob,2,7,2,male,My Neighbor Totoro,Movie,Original,0,10,0,0,"Adventure, Fantasy, Family"
+charlie,2,8,3,male,My Neighbor Totoro,Movie,Original,0,10,0,0,"Adventure, Fantasy, Family"
+alice,3,6,1,female,Princess Mononoke,Movie,Original,0,10,0,0,"Adventure, Fantasy, Drama"
+bob,3,7,2,male,Princess Mononoke,Movie,Original,0,10,0,0,"Adventure, Fantasy, Drama"
+charlie,3,8,3,male,Princess Mononoke,Movie,Original,0,10,0,0,"Adventure, Fantasy, Drama"
+diana,3,7,4,female,Princess Mononoke,Movie,Original,0,10,0,0,"Adventure, Fantasy, Drama"

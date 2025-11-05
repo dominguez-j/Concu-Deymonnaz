@@ -1,0 +1,13 @@
+username,anime_id,my_score,user_id,gender,title,type,source,score,scored_by,rank,popularity,genre
+user1,1,9,1,male,Attack on Titan,TV,Manga,0,10,0,0,"Action, Drama, Military"
+user2,1,8,2,female,Attack on Titan,TV,Manga,0,10,0,0,"Action, Drama, Military"
+user3,1,10,3,male,Attack on Titan,TV,Manga,0,10,0,0,"Action, Drama, Military"
+user4,1,9,4,female,Attack on Titan,TV,Manga,0,10,0,0,"Action, Drama, Military"
+user1,2,7,1,male,Your Name,Movie,Original,0,10,0,0,"Romance, Drama, Supernatural"
+user2,2,8,2,female,Your Name,Movie,Original,0,10,0,0,"Romance, Drama, Supernatural"
+user3,2,9,3,male,Your Name,Movie,Original,0,10,0,0,"Romance, Drama, Supernatural"
+user1,3,6,1,male,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+user2,3,7,2,female,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+user3,3,8,3,male,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+user4,3,9,4,female,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"
+user5,3,10,5,male,Spirited Away,Movie,Original,0,10,0,0,"Adventure, Drama, Supernatural"

@@ -1,1 +1,4 @@
 /target
+/dataset
+.vscode/
+/temp_shards
