@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "lib",
+    "cluster",
+    "station",
+    "spending_simulator",
+    "enterprise",
+    "pump",
+]
+resolver = "3"

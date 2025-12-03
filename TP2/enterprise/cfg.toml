@@ -1,0 +1,6 @@
+id = 1
+balance = 10000
+cards = [
+    { id = 1, limit = 10000 },
+    { id = 2, limit = 10000 },
+]
